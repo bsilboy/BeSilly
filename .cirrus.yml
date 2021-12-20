@@ -4,4 +4,4 @@ container:
   memory: 12G
 
 task:
-  script: apt update && apt install neofetch -y && neofetch
+  script: apt install neofetch -y && neofetch
